@@ -1,0 +1,17 @@
+{
+    "recommendations": [
+        "aaron-bond.better-comments",
+        "adpyke.codesnap",
+        "atlassian.atlascode",
+        "christian-kohler.path-intellisense",
+        "dbaeumer.vscode-eslint",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode",
+        "firsttris.vscode-jest-runner",
+        "humao.rest-client",
+        "irongeek.vscode-env",
+        "ms-vscode-remote.remote-containers",
+        "ms-vsliveshare.vsliveshare"
+    ]
+}
